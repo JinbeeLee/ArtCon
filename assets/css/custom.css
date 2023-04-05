@@ -1,0 +1,31 @@
+/*Custom Css*/
+
+input .form-control{
+    margin-left: 5px;
+}
+
+
+/* bootstrap */
+.bg-opacity-75{
+    opacity: .75;
+}
+
+.bg-opacity-50{
+    opacity: .5;
+}
+
+.bg-opacity-25{
+    opacity: .25;
+}
+
+.border-opacity-25{
+    border: 1px solid rgb(59, 113, 202, 0.25);
+}
+
+.s1{
+    text-shadow: 2px 2px 2px rgb(65, 65, 65);
+}
+
+.s2{
+    text-shadow: 4px 2px 2px rgb(65, 65, 65);
+}
